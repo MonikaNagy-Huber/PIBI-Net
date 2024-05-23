@@ -1,0 +1,2 @@
+# PIBI-Net for the Laplace and Poisson equation with point sources
+(Please reference to our paper **Physics-Informed Boundary Integral Networks (PIBI-Nets): a Data-Driven Approach for Solving Partial Differential Equations**.) if you use the code or parts of it. 
